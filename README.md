@@ -1,16 +1,29 @@
-
-<h1 align="center">Alura Plus </h1>
+<h1 align="center">Alura Plus</h1>
 <p align="center"> Um página inicial feita para a divulgação dos planos do curso Alura</p>
+<div align="center">
+<img src="https://github.com/Luis-Emanuel/Alura_Plus/blob/main/readme/readmiGIF.gif?raw=true"  />
+</div>	
 
- - Tecnlogias utilizadas:
+## ✔️ Técnicas e tecnologias utilizadas
 
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- `HTML`: Utilizamos o HTML de forma semântica e bem estruturada buscando o melhor desempenho para os buscadores.
+
+- `CSS`: Um meio de definir estilos para páginas web. Ele pode ser usado para modificar a aparência da mesma, como cor das letras, o tamanho dos textos, os fundos ou até mesmo mover elementos para dentro e fora do site. 
+
+- `BEM`: É uma convenção de nomenclatura para nomes de classe CSS, que fornece contexto sobre o propósito e a estrutura de diferentes elementos da interface do usuário.
+
+- `Flex box`: Utilizamos Flex box pois ela fornece controle sobre a direcionalidade, alinhamento, tamanho, ordem e espaçamento dos itens dentro delas. 
+
+- `Grids`: oferecem especificações de coluna mais detalhadas do que flexboxes, permitindo maior controle sobre posicionamento e espaçamento.   
+## 🔨 Funcionalidades do projeto
+
+<p align="justify">O projeto contém um conjunto de sessões onde cada uma mostra vantagens e benefícios da assinatura do Alura Plus com intuído de convencer o usuário a assinar o plano.</p>
 
 ## 📁 Acesso ao projeto
 
 [Veja o projeto final do curso em funcionamento](https://alura-plus-nt.vercel.app/).
 
+## 📷FOTOS DO PROJETO
 <div align="center">
-<img src="https://user-images.githubusercontent.com/43679743/210408265-9b576c08-8a38-4b7f-a80b-88d37d4fe2d4.png " width="400px" />
-</div>	
+<img width="90%" src="https://github.com/Luis-Emanuel/Alura_Plus/blob/main/readme/img.png?raw=true"/>
+</div>
