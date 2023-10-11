@@ -21,7 +21,7 @@
 
 ## 📁 Acesso ao projeto
 
-[Veja o projeto final do curso em funcionamento](https://alura-play-nt.vercel.app/).
+[Veja o projeto final do curso em funcionamento](https://alura-plus-nt.vercel.app/).
 
 ## 📷FOTOS DO PROJETO
 <div align="center">
